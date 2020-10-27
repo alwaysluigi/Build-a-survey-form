@@ -22,15 +22,6 @@ body {
     color: #008bff;
   }
 
-iframe {
-        padding: 0;
-      margin-top: 20px;
-      padding-left: 35%;
-      text-align:center;;
-      vertical-align: center;
-      align-content: center;
-    object-fit: cover;
-}
 
   main p {
     text-align: center;
@@ -61,3 +52,7 @@ iframe {
     display: flex;
     justify-content: center;
   }
+iframe {
+margin-bottom: 10px;
+
+}
