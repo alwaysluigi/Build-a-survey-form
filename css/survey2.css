@@ -21,6 +21,17 @@ body {
   .nav-link:hover {
     color: #008bff;
   }
+
+iframe {
+        padding: 0;
+      margin-top: 20px;
+      padding-left: 35%;
+      text-align:center;;
+      vertical-align: center;
+      align-content: center;
+    object-fit: cover;
+}
+
   main p {
     text-align: center;
   }
